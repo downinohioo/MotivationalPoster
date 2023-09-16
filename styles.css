@@ -1,0 +1,14 @@
+.fox{
+  height: 400px;
+  width: 800px;
+  margin-top: 25%;
+  border: 10px solid #ffffff;
+}
+body{
+    background-color: black;
+    color: #ffffff;
+}
+.text{
+    font-family: 'Luckiest Guy', cursive;
+    text-align: center;
+}
